@@ -51,6 +51,9 @@ Want a website that works *for* you — bringing leads, showcasing your talent, 
 🌐 [Portfolio](https://deckerwebdesign.com) *(coming soon)*  
 🐦 [Twitter](https://twitter.com/deckerwebdesign) | 📸 [Instagram](https://instagram.com/jadey_milady) | 🎮 
 
+![Visitor Count](https://profile-counter.glitch.me/deckerwebdesign/count.svg)
+
+
 ---
 
 > *"Design isn’t just how it looks — it’s how it works."* – Steve Jobs
