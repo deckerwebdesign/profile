@@ -51,7 +51,8 @@ Want a website that works *for* you — bringing leads, showcasing your talent, 
 🌐 [Portfolio](https://deckerwebdesign.com) *(coming soon)*  
 🐦 [Twitter](https://twitter.com/deckerwebdesign) | 📸 [Instagram](https://instagram.com/jadey_milady) | 🎮 
 
-![Visitor Count](https://profile-counter.glitch.me/deckerwebdesign/count.svg)
+![Visitor Count](https://count.getloli.com/get/@deckerwebdesign?theme=rule34)
+
 
 
 ---
